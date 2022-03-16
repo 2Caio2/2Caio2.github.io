@@ -1,0 +1,128 @@
+h1{
+    border-radius: 25px;
+    border: 34px;  
+}
+
+
+html{
+    background-color: cadetblue;
+}
+
+#sorria img{
+    width: 150px;
+    height: 150px;
+    margin-top: 23px ;
+    margin-left: 8px;
+}
+
+#cimento img{
+    width: 150px;
+    height: 150px; 
+    margin-top: 23px ;
+    margin-left: 8px;
+}
+
+#cimento fieldset{
+    margin-left: 350px;
+    margin-top: -12px;
+}
+
+#sorria fieldset{
+    margin-left: 15em;
+}
+
+#sorria p{
+    margin-left: 300px;
+    font-family: 'Amatic SC', cursive;
+    font-size: xx-large;
+}
+
+#cimento p{
+    margin-left: 50px;
+    margin-top: 45px;
+    font-family: 'Amatic SC', cursive;
+    font-size: xx-large;
+}
+
+#bolas{
+    display: flex;
+    align-items: center;
+}
+
+#bolas fieldset{
+    background-color: rgba(53, 53, 90, 0.548);
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 45px;  
+    align-items: center;
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    margin-left: 350px;
+    font-size:xxx-large;
+    margin-top: 4px;
+}
+
+body a{
+    margin-top:4px ;
+    margin-left: 20px ;
+}
+
+#cabecario{
+    display: flex;
+    align-items: center;
+}
+
+#cabecario fieldset{
+    border-radius: 100px;
+    border:medium;
+    width: 200px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
+    background-color:rgba(53, 53, 90, 0.548);
+}
+
+fieldset p{
+    margin-left:25px ;
+    color: #c5c5c5;
+    display: flex;
+    align-items: center;
+}
+
+fieldset h2{
+    margin-left:490px ;
+    font-family: 'Carattere', cursive;
+    font-size: xx-large;
+}
+
+fieldset{
+    margin-top: 30px;
+    border-radius: 200px;
+    border-color: rgba(3, 3, 51, 0.329);
+    margin-bottom: 30px;
+    background-color: #0353582c;
+}
+
+footer{
+    color:azure;
+    font-family: 'Amatic SC', cursive;
+    font-size: large;
+}
+
+footer a{
+    color:azure;
+    font-family: 'Amatic SC', cursive;
+}
+
+botton{
+    background-color:rgba(53, 53, 90, 0.548);
+    margin-top: 300px;
+    border-radius: 200px;
+    margin-bottom: 30px;
+}
