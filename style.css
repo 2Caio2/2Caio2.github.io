@@ -55,6 +55,7 @@ html{
     height: 200px;
     border-radius: 200px;
     border: 45px;  
+    margin-left: -200px; 
     align-items: center;
 }
 
