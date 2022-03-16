@@ -23,22 +23,22 @@ html{
 }
 
 #cimento fieldset{
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: -12px;
 }
 
 #sorria fieldset{
-    margin-left: 15em;
+    margin-left: 50px;
 }
 
 #sorria p{
-    margin-left: 300px;
+    margin-left: 50px;
     font-family: 'Amatic SC', cursive;
     font-size: xx-large;
 }
 
 #cimento p{
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 45px;
     font-family: 'Amatic SC', cursive;
     font-size: xx-large;
