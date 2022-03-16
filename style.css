@@ -55,7 +55,7 @@ html{
     height: 200px;
     border-radius: 200px;
     border: 45px;  
-    margin-left: -200px; 
+    margin-left: -100px; 
     align-items: center;
 }
 
@@ -122,9 +122,8 @@ footer a{
     font-family: 'Amatic SC', cursive;
 }
 
-botton{
+button{
     background-color:rgba(53, 53, 90, 0.548);
-    margin-top: 300px;
-    border-radius: 200px;
+    border-radius: 50px;
     margin-bottom: 30px;
 }
