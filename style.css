@@ -102,6 +102,7 @@ fieldset h2{
 }
 
 fieldset{
+    margin-right: 100px;
     margin-top: 30px;
     border-radius: 200px;
     border-color: rgba(3, 3, 51, 0.329);
